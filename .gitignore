@@ -1,0 +1,7 @@
+__pycache__
+*.txt
+*.md
+*.bin
+/hnswlib
+!/data/*.md
+!README.md
